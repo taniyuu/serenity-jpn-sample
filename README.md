@@ -5,6 +5,7 @@ https://github.com/serenity-bdd/serenity-demos/tree/master/jbehave-webtests
 を基に、実際に動くWeb画面で焼き直したもの
 
 ## 動かし方
+mavenでのみ動作確認しています。
 ```
 mvn clean verify
 ```
