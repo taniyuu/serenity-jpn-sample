@@ -8,6 +8,9 @@ https://github.com/serenity-bdd/serenity-demos/tree/master/jbehave-webtests
 ```
 mvn clean verify
 ```
+## 実行結果イメージ
+serenityレポートのイメージ
+![](readme-images/exesample.PNG "サンプル")
 
 ## 注意
 seleniumのchromeドライバを使用しています。
