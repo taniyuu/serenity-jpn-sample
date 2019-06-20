@@ -13,3 +13,5 @@ interpolated-*.xml
 *.ipr
 out
 *.ignore
+driver/*
+!.gitkeep
